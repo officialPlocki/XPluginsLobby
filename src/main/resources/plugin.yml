@@ -1,0 +1,11 @@
+name: XPlugins
+version: 'v1.0-Beta'
+main: xyz.x.xplugins.XPlugins
+authors: [ plocki, xplugins ]
+api-version: 1.13
+commands:
+  xplugins:
+  gamemode:
+  gm:
+  setspawn:
+  spawn:
